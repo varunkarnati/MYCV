@@ -1,0 +1,122 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    background: #0099ad;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #CCF2F4;
+    text-emphasis-color: #0099ad;
+}
+  
+.cloud-1{
+    position: absolute;
+    top: 60px;
+    right: 350px;
+}
+.cloud-2{
+    position: absolute;
+    bottom: 350px;
+    left: 350px;
+}
+.div-1{
+    position: relative;
+    padding-top: 140px;
+    background-color: #CCF2F4;
+    margin: 0px;
+    width: 100%;
+}
+.div-2{
+    text-align: center;
+    background-color: #F4F9F9;
+    position: relative;
+    padding-bottom: 20px;
+}
+.div2-2{
+    background-color: #F4F9F9;
+    margin: 50px auto 20px auto;
+}
+.div-3{
+    background-color: #CCF2F4;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.dp{
+    padding: 85px 85px 30px 85px;
+}
+h1{
+    padding-top: 20px;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 3.75em;
+    color: #66BFBF;
+    line-height: 150%;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 3em;
+    margin: 20px;
+    color: #11999E;
+}
+.h1-2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: #11999E;
+
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color:gray;
+    border-width: 6px;
+}
+.links{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: 1.17rem;
+}
+.links:hover{
+    color: #ffffff;
+}
+.mountain{
+    padding: 80px auto auto auto;
+}
+.p1{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: 400;
+}
+.p2{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 55px;
+}
+.p3{
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+.p4{
+    margin-bottom: 0;
+    font-size: 0.85rem;
+}
+.table-imgs{
+    padding: 10px;
+}
+table{
+    margin: 50px auto 35px auto;
+    
+}
